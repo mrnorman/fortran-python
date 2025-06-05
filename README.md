@@ -1,6 +1,6 @@
 ```bash
 git clone git@github.com:mrnorman/fortran-python.git
-cd fortran-pythone
+cd fortran-python
 mkdir build
 cd build
 rm -rf * && cmake .. && make
