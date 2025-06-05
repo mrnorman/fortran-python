@@ -4,5 +4,5 @@ cd fortran-pythone
 mkdir build
 cd build
 rm -rf * && cmake .. && make
-python3 ../for_python.py
+python ../for_python.py
 ```
